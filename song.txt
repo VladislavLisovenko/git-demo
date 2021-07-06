@@ -9,9 +9,3 @@ Shield by shield
 some content
 
 and here
-
-commit 1
-
-commit 1 ammend
-
-commit 2
